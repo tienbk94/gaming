@@ -1,4 +1,4 @@
-package vn.gaming.game;
+package vn.gaming.game.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
